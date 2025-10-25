@@ -1,0 +1,13 @@
+body {
+    background-color: blue;
+}
+
+/* O si prefieres un azul más suave */
+body {
+    background-color: #007bff;
+}
+
+/* O si quieres aplicarlo específicamente a una página index */
+.index-page {
+    background-color: blue;
+}
